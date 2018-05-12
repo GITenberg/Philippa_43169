@@ -1,0 +1,47 @@
+_repo: Philippa_43169
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Finnemore, Joseph
+    alias: Finnemore, J. (Joseph)
+    birthdate: 1860
+    deathdate: 1939
+    gutenberg_agent_id: '31275'
+    url: http://www.gutenberg.org/2009/agents/31275
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Molesworth, Mary Louisa Stewart
+    - Mrs. (Mary Louisa) Molesworth
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: ''
+gutenberg_issued: '2013-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43169'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social status -- Juvenile fiction'
+- !lcsh 'Courtship -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Household employees -- Juvenile fiction'
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Sick -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+title: Philippa
+url: http://www.gutenberg.org/ebooks/43169
